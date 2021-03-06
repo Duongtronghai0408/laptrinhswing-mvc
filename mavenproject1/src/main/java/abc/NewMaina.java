@@ -15,7 +15,7 @@ public class NewMaina {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println(" I LOVE YOU");
+        System.out.println("I LOVE YOU");
         // TODO code application logic here
         
     }
